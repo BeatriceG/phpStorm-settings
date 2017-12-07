@@ -1,0 +1,202 @@
+<application>
+  <component name="RecentDirectoryProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/sites/backbee" />
+        <option value="$USER_HOME$/sites/lavieimmo" />
+        <option value="$USER_HOME$/sites/verif.com/data/current" />
+        <option value="$USER_HOME$/sites/decouverte" />
+        <option value="$USER_HOME$/sites/tradingsat" />
+        <option value="$USER_HOME$/docker/docker_moneyweb_ssl" />
+        <option value="$USER_HOME$/sites/static-decouverte" />
+        <option value="$USER_HOME$/sites/zone-turf" />
+        <option value="/space/www/verif.com" />
+        <option value="/space/www/lavieimmo" />
+        <option value="$USER_HOME$/sites/backbee-next" />
+        <option value="$USER_HOME$/sites/bb-core-js" />
+        <option value="$USER_HOME$/sites/static" />
+      </list>
+    </option>
+    <option name="lastPath" value="$USER_HOME$/sites/backbee" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/docker/docker_moneyweb_ssl">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PS-172.3544.41" />
+              <option name="productionCode" value="PS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1510308323699" />
+              <option name="buildTimestamp" value="1501660308723" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/sites/backbee">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PS-172.3544.41" />
+              <option name="productionCode" value="PS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1512640318860" />
+              <option name="buildTimestamp" value="1501660312549" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/sites/backbee-next">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PS-162.2380.11" />
+              <option name="productionCode" value="PS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1501494559612" />
+              <option name="buildTimestamp" value="1477260000000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/sites/backbee-next/bundle/SmartadserverBundle">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PS-162.2380.11" />
+              <option name="productionCode" value="PS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1491826415399" />
+              <option name="buildTimestamp" value="1477260000000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/sites/bb-core-js">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PS-162.2380.11" />
+              <option name="productionCode" value="PS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1500643251299" />
+              <option name="buildTimestamp" value="1477260000000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/sites/decouverte">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PS-172.3544.41" />
+              <option name="productionCode" value="PS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1510739854775" />
+              <option name="buildTimestamp" value="1501660301931" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/sites/lavieimmo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PS-172.3544.41" />
+              <option name="productionCode" value="PS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1512481815140" />
+              <option name="buildTimestamp" value="1501660300739" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/sites/static">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PS-162.2380.11" />
+              <option name="productionCode" value="PS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1484557089647" />
+              <option name="buildTimestamp" value="1477260000000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/sites/static-decouverte">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PS-172.3544.41" />
+              <option name="productionCode" value="PS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1507897713358" />
+              <option name="buildTimestamp" value="1501660280223" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/sites/tradingsat">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PS-172.3544.41" />
+              <option name="productionCode" value="PS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1510563445125" />
+              <option name="buildTimestamp" value="1501660301931" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/sites/verif.com/data/current">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PS-172.3544.41" />
+              <option name="productionCode" value="PS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1511879051851" />
+              <option name="buildTimestamp" value="1501660307188" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/sites/zone-turf">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PS-172.3544.41" />
+              <option name="productionCode" value="PS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1506591086490" />
+              <option name="buildTimestamp" value="1501660273590" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="/space/www/lavieimmo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PS-172.3544.41" />
+              <option name="productionCode" value="PS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1504775018510" />
+              <option name="buildTimestamp" value="1501660319560" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="/space/www/verif.com">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PS-172.3544.41" />
+              <option name="productionCode" value="PS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1506525968836" />
+              <option name="buildTimestamp" value="1501660271732" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="/var/www">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PS-162.2380.11" />
+              <option name="productionCode" value="PS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1478768908461" />
+              <option name="buildTimestamp" value="1477260000000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="/var/www/backbee-next">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PS-162.2380.11" />
+              <option name="productionCode" value="PS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1478768929123" />
+              <option name="buildTimestamp" value="1477260000000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>

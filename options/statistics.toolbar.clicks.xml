@@ -1,0 +1,15 @@
+<application>
+  <component name="ToolbarClicksCollector">
+    <counts>
+      <entry action="CaptureMemorySnapShot@MainToolbar" count="1" />
+      <entry action="Find@MainToolbar" count="1" />
+      <entry action="OpenFile@MainToolbar" count="13" />
+      <entry action="com.intellij.application.options.schemes.AbstractSchemesPanel$ShowSchemesActionsListAction@NavBarToolbar" count="7" />
+      <entry action="com.intellij.find.SearchTextArea$ClearAction@unknown" count="16" />
+      <entry action="com.intellij.find.editorHeaderActions.NextOccurrenceAction@EditorToolbar" count="188" />
+      <entry action="com.intellij.find.editorHeaderActions.PrevOccurrenceAction@EditorToolbar" count="35" />
+      <entry action="com.intellij.find.impl.FindPopupPanel$MySelectScopeToggleAction@EditorToolbar" count="34" />
+      <entry action="com.intellij.ide.browsers.actions.BaseWebBrowserAction@ContextToolbar" count="2" />
+    </counts>
+  </component>
+</application>

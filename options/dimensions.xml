@@ -1,0 +1,41 @@
+<application>
+  <component name="DimensionService">
+    <location key="WELCOME_SCREEN.0.0.2560.1440" x="1279" y="561" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.2560.1440" x="994" y="503" />
+    <location key="SettingsEditor.0.0.2560.1440" x="375" y="427" />
+    <location key="com.intellij.history.integration.ui.views.FileHistoryDialog.0.0.2560.1440" x="676" y="275" />
+    <location key="scopes.0.0.2560.1440" x="1163" y="579" />
+    <location key="scopes.2560.211.1680.1050" x="3541" y="739" />
+    <location key="SettingsEditor.2560.211.1680.1050" x="448" y="208" />
+    <location key="FileChooserDialogImpl.0.0.2560.1440" x="769" y="303" />
+    <location key="#Browse_JetBrains_Plugins_.0.0.2560.1440" x="987" y="465" />
+    <location key="#Browse_Repositories.0.0.2560.1440" x="987" y="465" />
+    <location key="#Notifications.0.0.2560.1440" x="1162" y="436" />
+    <location key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate.0.0.2560.1440" x="1160" y="602" />
+    <location key="replaceTextDialog.0.0.2560.1440" x="627" y="420" />
+    <location key="ReplaceDuplicatesPrompt.0.0.2560.1440" x="1037" y="632" />
+    <location key="findTextDialog.0.0.2560.1440" x="704" y="397" />
+    <location key="MergeDialog.0.0.2560.1440" x="322" y="144" />
+    <location key="MultipleFileMergeDialog.0.0.2560.1440" x="1057" y="472" />
+    <location key="#com.intellij.fileTypes.FileTypeChooser.0.0.2560.1440" x="1050" y="575" />
+    <location key="#PHP.0.0.2560.1440" x="1078" y="508" />
+    <location key="#Plugins.0.0.2560.1440" x="880" y="226" />
+    <location key="find.popup.0.0.2560.1440" x="636" y="428" />
+    <location key="com.intellij.openapi.editor.actions.MultiplePasteAction$1.0.0.2560.1440" x="1025" y="424" />
+    <location key="#com.intellij.ide.actions.ChooseComponentsToExportDialog.0.0.2560.1440" x="1129" y="419" />
+    <size key="com.intellij.history.integration.ui.views.FileHistoryDialog.0.0.2560.1440" width="1376" height="878" />
+    <size key="findTextDialog.0.0.2560.1440" width="1722" height="897" />
+    <size key="javadoc.popup.0.0.2560.1440" width="600" height="424" />
+    <size key="replaceTextDialog.0.0.2560.1440" width="1175" height="577" />
+    <size key="FileChooserDialogImpl.0.0.2560.1440" width="655" height="775" />
+    <size key="Vcs.CompareWithSelectedRevision.Popup.0.0.2560.1440" width="465" height="420" />
+    <size key="GridCell.Tab.0.left.0.0.2560.1440" width="2004" height="228" />
+    <size key="GridCell.Tab.0.center.0.0.2560.1440" width="2004" height="228" />
+    <size key="GridCell.Tab.0.right.0.0.2560.1440" width="2004" height="228" />
+    <size key="GridCell.Tab.0.bottom.0.0.2560.1440" width="2004" height="228" />
+    <size key="find.popup.0.0.2560.1440" width="1742" height="935" />
+    <extendedState key="com.intellij.history.integration.ui.views.FileHistoryDialog" state="0" />
+    <extendedState key="com.intellij.history.integration.ui.views.FileHistoryDialog.0" state="300" />
+    <extendedState key="com.intellij.history.integration.ui.views.FileHistoryDialog.1" state="500" />
+  </component>
+</application>

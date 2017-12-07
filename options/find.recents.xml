@@ -1,0 +1,46 @@
+<application>
+  <component name="FindRecents">
+    <findStrings>
+      <find>manualSizePane</find>
+      <find>bloc border-s border-color-force visible-md</find>
+      <find>http://rmcsport.bfmtv.com/mediaplayer/</find>
+      <find>href</find>
+      <find>if signature == '' and reporter is defined</find>
+      <find>visible-smallDevice swicthVersion</find>
+      <find>$gb_responsi</find>
+      <find>$gb_responsive</find>
+      <find>gb_responsive</find>
+      <find>auteur</find>
+      <find>plugin</find>
+      <find>#f92e68</find>
+      <find>#f82e68</find>
+      <find>signature</find>
+      <find>ec8a08</find>
+      <find>signatu</find>
+      <find>e40613</find>
+      <find>#e40613 !important</find>
+      <find>bfmtv-base-color</find>
+      <find>base-color</find>
+      <find>SIGN</find>
+      <find>@rub</find>
+      <find>#ec8a08</find>
+      <find>sign</find>
+      <find>clear</find>
+      <find>link</find>
+      <find>.rub</find>
+      <find>text-color</find>
+      <find>.border-color-base</find>
+      <find>rub9</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>20161115_backbee_dev</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$USER_HOME$/sites/backbee-next/repository</dir>
+      <dir>$USER_HOME$/sites/backbee-next/repository/Resources/less</dir>
+      <dir>$USER_HOME$/sites/lavieimmo</dir>
+      <dir>$USER_HOME$/sites/backbee-next/vendor/backbee/bb-core-js/dist</dir>
+      <dir>$USER_HOME$/sites/backbee-next</dir>
+    </dirStrings>
+  </component>
+</application>

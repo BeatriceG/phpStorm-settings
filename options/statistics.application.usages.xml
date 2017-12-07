@@ -1,0 +1,61 @@
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="php-include-path">
+      <project id="backbee-next" values="0" collectionTime="1478709780102" />
+    </group>
+    <group name="vcs">
+      <project id="backbee-next" values="Git" collectionTime="1478709780030" />
+    </group>
+    <group name="JavaScript versions">
+      <project id="backbee-next" values="DEFAULT" collectionTime="1478709780102" />
+    </group>
+    <group name="php-servers">
+      <project id="backbee-next" values="0" collectionTime="1478709780104" />
+    </group>
+    <group name="php-interpreters">
+      <project id="backbee-next" values="0" collectionTime="1478709780104" />
+    </group>
+    <group name="php-interpreter-version">
+      <project id="backbee-next" values="not installed" collectionTime="1478709780104" />
+    </group>
+    <group name="php-debug-skipped-paths">
+      <project id="backbee-next" values="0" collectionTime="1478709780105" />
+    </group>
+    <group name="file-type">
+      <project id="backbee-next" values="SmartyConfig,JavaScript,PLAIN_TEXT,XML,Locale,ReST,YAML,Perl,HTML,CSS,Images,JSHint,Smarty,C++,PHAR,JSON,Native,SourceMap,ARCHIVE,Twig,PHP,SQL,Less,DTD,htaccess,TypeScript,UNKNOWN,Ini" collectionTime="1478709780048" />
+    </group>
+    <group name="module type">
+      <project id="backbee-next" values="WEB_MODULE" collectionTime="1478709780030" />
+    </group>
+    <group name="javaScript Scope Usages">
+      <project id="backbee-next" values="Project,Project" collectionTime="1478709780102" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="CreateFile.CreateFileAction" count="1" />
+      <entry feature="OpenInBrowser.Opera" count="1" />
+      <entry feature="OpenInBrowser.Safari" count="1" />
+      <entry feature="StripeButton[Version_Control].hidden" count="2" />
+      <entry feature="StripeButton[Version_Control].shown" count="4" />
+      <entry feature="ide.settings.Appearance" count="3" />
+      <entry feature="ide.settings.Color_Scheme" count="18" />
+      <entry feature="ide.settings.Color_Scheme_Font" count="7" />
+      <entry feature="ide.settings.Colors_&amp;_Fonts" count="10" />
+      <entry feature="ide.settings.Console_Font" count="1" />
+      <entry feature="ide.settings.Font" count="4" />
+      <entry feature="ide.settings.Plugins" count="2" />
+      <entry feature="ide.settings.Version_Control" count="2" />
+      <entry feature="ideaapp.started" count="104" />
+      <entry feature="project.view.pane.ProjectPane" count="1" />
+      <entry feature="project.view.pane.Scope.Project Files" count="1" />
+      <entry feature="terminal.mac" count="6" />
+      <entry feature="welcome.screen.WelcomeScreen.Configure" count="3" />
+      <entry feature="welcome.screen.WelcomeScreen.GetFromVcs" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.OpenDirectoryProject" count="8" />
+      <entry feature="welcome.screen.WelcomeScreen.Plugins" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.Update" count="1" />
+      <entry feature="welcome.screen.null" count="2" />
+    </counts>
+  </component>
+</application>
